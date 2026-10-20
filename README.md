@@ -19,8 +19,8 @@ Auctions and pricing · stochastic control (HJB) · causal inference under censo
   equation for the Merton problem under Vasicek rates, with closed-form HARA policies
   proved via a verification theorem — and reports honestly that the optimal policy did
   **not** beat the 1/N benchmark out-of-sample (Sharpe 0.88 vs 0.99).
-- **Production systems.** A seven-engine programmatic-pricing system reconciled to the
-  cent against $24.3M of ad revenue, where 88% of outcomes are never observed.
+- **Production systems.** A seven-engine pricing system (shadow mode) reconciled to the
+  cent against $24.3M of direct revenue, where 83% of outcomes are never observed.
 
 **How I work**
 
@@ -42,5 +42,5 @@ systems lives in private repositories — happy to walk through any of it in a s
 ---
 
 📍 Mexico City · EN/ES
-📄 Thesis: *Stochastic Control in Investment Portfolio Optimization* — 262 pp., submitted to the Premio Nacional de Actuaría 2026
+📄 Thesis: *Stochastic Control in Investment Portfolio Optimization* — 262 pp.
 💼 [LinkedIn](https://www.linkedin.com/in/aldo-mendoza-63aa03234)
